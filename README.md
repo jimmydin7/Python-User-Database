@@ -10,12 +10,4 @@ Database Information: JDB offers insights into your database. You can check the 
 Error Handling: JDB includes an error console to guide you through potential issues, ensuring a smooth user experience.
 "Jim Database" (JDB) is an invaluable tool for anyone looking to manage user data effortlessly and effectively. Its straightforward interface and robust functionality make it an ideal choice for projects of all scales.
 
-General Commands:
-
-set db <filename>: Set the database to the specified file.
-add: Add a new user record to the database.
-show db: Display the currently selected database.
-show user <user_id>: View user details by ID.
-show raw: View user records in their raw format.
-search <content>: Search for users based on specific criteria.
-help: Access the help menu for command reference and assistance.
+The main file is console.py
